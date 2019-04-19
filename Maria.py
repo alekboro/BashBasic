@@ -1,1 +1,0 @@
-print ("Jestem ksiedzem")
